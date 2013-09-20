@@ -1,0 +1,6 @@
+[submodule "smack"]
+	path = smack
+	url = https://github.com/dant3/smack.git
+[submodule "asmack"]
+	path = asmack
+	url = https://github.com/Flowdalic/asmack.git
