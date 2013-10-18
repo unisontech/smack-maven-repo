@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.igniterealtime.smack</groupId>
     <artifactId>asmack</artifactId>
-    <version>0.8.4</version>
+    <version>0.8.5</version>
     <name>XMPP library Smack on android with Unison add-ons</name>
     <url>http://asmack.org</url>
 

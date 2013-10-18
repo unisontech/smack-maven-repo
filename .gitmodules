@@ -1,6 +1,6 @@
 [submodule "smack"]
 	path = smack
-	url = https://github.com/dant3/smack.git
+	url = git@github.com:unisontech/smack.git
 [submodule "asmack"]
 	path = asmack
-	url = https://github.com/dant3/asmack.git
+	url = git@github.com:unisontech/asmack.git
