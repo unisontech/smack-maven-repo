@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>org.igniterealtime.smack</groupId>
+    <groupId>com.unison.xmpp</groupId>
     <artifactId>asmack</artifactId>
     <version>0.8.5</version>
     <name>XMPP library Smack on android with Unison add-ons</name>
