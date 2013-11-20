@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.unison.xmpp</groupId>
     <artifactId>smackx</artifactId>
-    <version>3.3.1</version>
+    <version>3.3.2</version>
     <name>XMPP library Smack for JSE with Unison add-ons</name>
     <url>https://github.com/Flowdalic/smack</url>
 
