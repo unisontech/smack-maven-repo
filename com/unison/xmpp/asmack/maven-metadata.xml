@@ -3,12 +3,9 @@
   <groupId>com.unison.xmpp</groupId>
   <artifactId>asmack</artifactId>
   <versioning>
-    <release>0.8.5.1</release>
     <versions>
-      <version>0.8.4</version>
-      <version>0.8.5</version>
-      <version>0.8.5.1</version>
+      <version>3.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20131123143726</lastUpdated>
+    <lastUpdated>20140108111332</lastUpdated>
   </versioning>
 </metadata>
