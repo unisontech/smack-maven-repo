@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.unison.smack</groupId>
+  <artifactId>smack-resolver-javax</artifactId>
+  <version>4.1.0-alpha1-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>4.1.0-alpha1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140820072145</lastUpdated>
+  </versioning>
+</metadata>

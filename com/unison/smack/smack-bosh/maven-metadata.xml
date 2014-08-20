@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.unison.smack</groupId>
+  <artifactId>smack-bosh</artifactId>
+  <version>4.1.0-alpha1-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>4.1.0-alpha1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140820072144</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.unison.smack</groupId>
+  <artifactId>smack-experimental</artifactId>
+  <version>4.1.0-alpha1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140820.072145</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140820072145</lastUpdated>
+  </versioning>
+</metadata>
