@@ -7,7 +7,8 @@
     <versions>
       <version>4.1.0-alpha1-SNAPSHOT</version>
       <version>4.1.0-xep198-alpha1-SNAPSHOT</version>
+      <version>4.1.0-unison-alpha1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140821083916</lastUpdated>
+    <lastUpdated>20140822120038</lastUpdated>
   </versioning>
 </metadata>
