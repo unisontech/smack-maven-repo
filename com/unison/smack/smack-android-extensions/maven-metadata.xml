@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.unison.smack</groupId>
+  <artifactId>smack-android-extensions</artifactId>
+  <version>4.1.0-alpha7-SNAPSHOT</version>
+  <versioning>
+    <versions>
+      <version>4.1.0-alpha7-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20141218133127</lastUpdated>
+  </versioning>
+</metadata>
